@@ -24,3 +24,11 @@ This is how the text-editor looks like. You can write, edit and delete content i
 ![Screenshot 2023-08-02 105411](https://github.com/20981a4207/Text-Editor-Python/assets/133489960/4b8852d9-0fa2-4709-bde3-42ee2af72a91)
 
 ![Screenshot 2023-08-02 105359](https://github.com/20981a4207/Text-Editor-Python/assets/133489960/b16183b5-4176-4851-ab15-b059d0a0fa1e)
+
+## Contributing
+
+Please see  [CONTRIBUTING.md](https://github.com/iampiyushjain/Text-Editor/blob/master/CONTRIBUTING.md)  for more details. Or feel free to reach out to me via  [mail](20981a4207@raghuenggcollege.in)
+
+## [](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#license)License
+
+Text Editor is licensed under MIT license. Please see  [LICENSE.md](https://github.com/iampiyushjain/Text-Editor/blob/master/LICENSE.md)  for more details.
