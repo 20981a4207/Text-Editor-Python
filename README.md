@@ -27,8 +27,8 @@ This is how the text-editor looks like. You can write, edit and delete content i
 
 ## Contributing
 
-Please see  [CONTRIBUTING.md](https://github.com/iampiyushjain/Text-Editor/blob/master/CONTRIBUTING.md)  for more details. Or feel free to reach out to me via  [mail](20981a4207@raghuenggcollege.in)
+Please see  [CONTRIBUTING.md](https://github.com/20981a4207/Text-Editor-Python/blob/master/CONTRIBUTING.md)  for more details. Or feel free to reach out to me via  [mail](20981a4207@raghuenggcollege.in)
 
-## [](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#license)License
+## [](https://github.com/20981a4207/Text-Editor-Python/blob/master/README.md#license)License
 
 Text Editor is licensed under MIT license. Please see  [LICENSE.md](https://github.com/iampiyushjain/Text-Editor/blob/master/LICENSE.md)  for more details.
